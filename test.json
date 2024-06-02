@@ -1,0 +1,40 @@
+{
+    "territories": {
+        "Ragni Main Entrance": {
+          "territory": "Ragni Main Entrance",
+          "guild": "KongoBoys",
+          "guildPrefix": "DUDE",
+          "acquired": "2023-05-27 01:46:37",
+          "location": {
+            "startX": -747,
+            "startY": -1530,
+            "endX": -616,
+            "endY": -1652
+          }
+        },
+        "Nivla Woods Entrance": {
+          "territory": "Nivla Woods Entrance",
+          "guild": "KongoBoys",
+          "guildPrefix": "DUDE",
+          "acquired": "2023-05-28 21:31:03",
+          "location": {
+            "startX": -435,
+            "startY": -1530,
+            "endX": -372,
+            "endY": -1652
+          }
+        },
+        "Katoa Ranch": {
+          "territory": "Katoa Ranch",
+          "guild": "KongoBoys",
+          "guildPrefix": "DUDE",
+          "acquired": "2023-05-27 01:18:06",
+          "location": {
+            "startX": -914,
+            "startY": -1860,
+            "endX": -748,
+            "endY": -1955
+          }
+        }
+    }
+}
